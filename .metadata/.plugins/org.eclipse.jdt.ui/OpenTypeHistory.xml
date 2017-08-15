@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-<typeInfo handle="=spring-beans/src\/main\/java&lt;org.springframework.beans.factory.support{DefaultListableBeanFactory.java[DefaultListableBeanFactory" modifiers="1" timestamp="1502073200614"/>
+<typeInfo handle="=spring-beans/src\/main\/java&lt;org.springframework.beans.factory.support{DefaultListableBeanFactory.java[DefaultListableBeanFactory" modifiers="1" timestamp="1502331601627"/>
 <typeInfo handle="=spring-beans/src\/main\/java&lt;org.springframework.beans.factory.xml{XmlBeanFactory.java[XmlBeanFactory" modifiers="1048577" timestamp="1502073200651"/>
 <typeInfo handle="=spring-beans/src\/test\/java&lt;org.springframework.beans.factory.support.security.support{FactoryBean.java[FactoryBean" modifiers="1" timestamp="1502073200762"/>
 <typeInfo handle="=spring-beans/src\/main\/java&lt;org.springframework.beans.factory{FactoryBean.java[FactoryBean" modifiers="513" timestamp="1502073200529"/>
 <typeInfo handle="=spring-beans/src\/main\/java&lt;org.springframework.beans.factory{BeanFactory.java[BeanFactory" modifiers="513" timestamp="1502073200522"/>
 <typeInfo handle="=spring-beans/C:\/Users\/pengyunlong\/.gradle\/caches\/modules-2\/files-2.1\/org.apache.tomcat.embed\/tomcat-embed-core\/8.5.16\/1318c2a44de53b692cb42021dc3d9a2a185e65a4\/tomcat-embed-core-8.5.16.jar&lt;org.apache.catalina.core(ApplicationContext.class[ApplicationContext" modifiers="33" timestamp="1502073148987"/>
-<typeInfo handle="=spring-context/src\/main\/java&lt;org.springframework.context.support{ClassPathXmlApplicationContext.java[ClassPathXmlApplicationContext" modifiers="1" timestamp="1502073201394"/>
 <typeInfo handle="=spring-beans/src\/main\/java&lt;org.springframework.beans.factory.annotation{QualifierAnnotationAutowireCandidateResolver.java[QualifierAnnotationAutowireCandidateResolver" modifiers="1" timestamp="1502073200547"/>
 <typeInfo handle="=spring-beans/src\/main\/java&lt;org.springframework.beans.factory.config{BeanFactoryPostProcessor.java[BeanFactoryPostProcessor" modifiers="513" timestamp="1502073200555"/>
+<typeInfo handle="=spring-context/src\/main\/java&lt;org.springframework.context.event{SimpleApplicationEventMulticaster.java[SimpleApplicationEventMulticaster" modifiers="1" timestamp="1502073201373"/>
+<typeInfo handle="=spring-aop/src\/main\/java&lt;org.springframework.aop.config{AspectJAutoProxyBeanDefinitionParser.java[AspectJAutoProxyBeanDefinitionParser" modifiers="0" timestamp="1502073199896"/>
+<typeInfo handle="=spring-aop/src\/main\/java&lt;org.springframework.aop.aspectj.annotation{AnnotationAwareAspectJAutoProxyCreator.java[AnnotationAwareAspectJAutoProxyCreator" modifiers="1" timestamp="1502073199859"/>
+<typeInfo handle="=spring-aop/src\/main\/java&lt;org.springframework.aop.framework.adapter{MethodBeforeAdviceInterceptor.java[MethodBeforeAdviceInterceptor" modifiers="1" timestamp="1502073199940"/>
+<typeInfo handle="=spring-context/src\/main\/java&lt;org.springframework.context.support{ClassPathXmlApplicationContext.java[ClassPathXmlApplicationContext" modifiers="1" timestamp="1502338174731"/>
 </typeInfoHistroy>

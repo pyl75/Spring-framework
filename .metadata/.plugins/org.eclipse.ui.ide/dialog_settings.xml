@@ -5,6 +5,7 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="E:\Spring-framework\spring-aop"/>
 			<item value="E:\Spring-framework\spring-beans-groovy"/>
 			<item value="E:\Spring-framework\spring-instrument"/>
 			<item value="E:\Spring-framework\spring-expression"/>

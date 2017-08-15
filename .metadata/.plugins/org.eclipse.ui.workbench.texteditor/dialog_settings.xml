@@ -8,14 +8,14 @@
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="getbean"/>
+			<item value="initMessage"/>
+			<item value="registerBeanPostProcessors"/>
+			<item value="registerbean"/>
 			<item value="invoke"/>
 			<item value="getsu"/>
 			<item value="createbean"/>
 			<item value="docreate"/>
-			<item value="dogetbean"/>
-			<item value="docreatebean"/>
-			<item value="getbean"/>
-			<item value="get"/>
 		</list>
 		<list key="replacehistory">
 		</list>
@@ -24,7 +24,7 @@
 		<item value="300" key="DIALOG_WIDTH"/>
 		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
 		<item value="410" key="DIALOG_HEIGHT"/>
-		<item value="337" key="DIALOG_X_ORIGIN"/>
-		<item value="250" key="DIALOG_Y_ORIGIN"/>
+		<item value="580" key="DIALOG_X_ORIGIN"/>
+		<item value="284" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>
